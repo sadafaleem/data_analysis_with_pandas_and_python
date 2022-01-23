@@ -11,8 +11,11 @@ Data Analysis with Pandas and Python introduces you to the popular Pandas librar
 
 ### List of Files and Folders
 
-#### Folder Resources: 
-This folder contains all resources provided in this course, including datasets and jupyter notebooks. It contains two sub folders, notebook containing jupyter notebook files and pandas folder containing datasets.
+#### Folder pandas: 
+This folder contains all datasets provided with this course.
+
+#### Folder notebook:
+This folder contains all resources of jupyter notebooks provided in this course.
 
 #### Folder Practice:
 This folder contains practice files that I created while taking this course.
